@@ -8,4 +8,7 @@ Assignment 1
     b. Clone a repository.
             Scope -
                 1. Cloned the given directory i.e. demo-repo.
-                
+                2. Created a new branch.
+                3. Added a new file xyz.txt to the directory
+                4. done with merge.
+
