@@ -4,3 +4,4 @@ Assignment 1
                 i. Directory created and uploaded to git repository
                 ii. Create a new branch.
                 iii. Add a new file abc.txt to the directory 
+                iv. Commit and push the changes.
